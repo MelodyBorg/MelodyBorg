@@ -17,22 +17,6 @@ Right now, I'm building technical projects that blend **market strategy**, **AI/
 
 ---
 
-## 🛠️ Featured Projects
-
-### 📊 [B2B Subscription Dashboard](https://github.com/melodyborg/b2b-subscription-optimizer)
-A mock SaaS dashboard that analyzes MRR, churn, and LTV using Python + Pandas  
-> `Python · Pandas · Matplotlib · SaaS KPIs · Business Analytics`
-
-### 🌍 MarketEntry AI *(In Progress)*
-Machine learning model that scores international markets for SME success  
-> `Market Readiness · Localization Score · Global Expansion Strategy`
-
-### 📚 Virtual Team Research
-Conference-presented study on how virtual teams succeed across 9 key competencies  
-> `Survey Analysis · Research Presentation · Cross-cultural Collaboration`
-
----
-
 ## ✨ Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/melody-borg)
